@@ -3,5 +3,9 @@ langchain
 pandas >= 2.0.3
 docx
 websockets >= 11.0.3
+base64
+json
 asyncio
 pyaudio >= 0.2.13
+os
+pathlib
