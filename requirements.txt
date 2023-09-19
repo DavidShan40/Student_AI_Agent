@@ -1,5 +1,5 @@
 streamlit
-langchain.llms >= 0.0.288
+langchain
 pandas >= 2.0.3
 docx
 websockets >= 11.0.3
