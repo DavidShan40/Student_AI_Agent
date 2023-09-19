@@ -26,7 +26,7 @@ st.sidebar.header("General AI Agent")
 st.write(
 	"""This demo helps you figure out general questions. Enjoy! """
 )
-
+audio = audiorecorder("Click to record", "Click to stop recording")
 # File uploader PDF
 def extract_from_pdf(file):
 	with pdfplumber.open(file) as pdf:
@@ -194,4 +194,3 @@ if (st.session_state['submit'] == True or submitted) and openai_api_key.startswi
 	print(query)
 	generate_response(query)
 	st.session_state['submit'] == False
-audio = audiorecorder("Click to record", "Click to stop recording")
