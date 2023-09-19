@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-import openai
 from langchain.llms import OpenAI
 import pandas as pd
 from docx import Document
