@@ -4,5 +4,4 @@ pandas >= 2.0.3
 docx
 websockets >= 11.0.3
 asyncio
-json
 pyaudio >= 0.2.13
