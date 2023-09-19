@@ -1,7 +1,7 @@
 streamlit
 langchain
 pandas >= 2.0.3
-docx
+python-docx
 websockets >= 11.0.3
 pybase64
 asyncio
