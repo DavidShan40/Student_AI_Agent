@@ -1,9 +1,1 @@
-streamlit
-langchain.llms
-pandas
-docx
-websockets
-asyncio
-base64
-json
-pyaudio
+
