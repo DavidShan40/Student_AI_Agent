@@ -7,4 +7,4 @@ pybase64
 asyncio
 PyAudio
 pdfplumber
-audio-recorder-streamlit
+streamlit-audiorecorder
