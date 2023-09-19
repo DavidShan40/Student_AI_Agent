@@ -10,6 +10,7 @@ import asyncio
 import base64
 import json
 import pyaudio
+from audiorecorder import audiorecorder
 
 if 'text' not in st.session_state:
 	st.session_state['text'] = 'User Audio: '
