@@ -1,9 +1,9 @@
 streamlit
-langchain.llms
-pandas
+langchain.llms >= 0.0.288
+pandas >= 2.0.3
 docx
-websockets
+websockets >= 11.0.3
 asyncio
 base64
 json
-pyaudio
+pyaudio >= 0.2.13
